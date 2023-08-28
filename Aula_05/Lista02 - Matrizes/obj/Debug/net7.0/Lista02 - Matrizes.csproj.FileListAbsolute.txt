@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Aulas_Generation\Aula_05\Lista02 - Matrizes\bin\Debug\net7.0\Lista02 - Matrizes.exe
+C:\Users\user\Desktop\Aulas_Generation\Aula_05\Lista02 - Matrizes\bin\Debug\net7.0\Lista02 - Matrizes.deps.json
+C:\Users\user\Desktop\Aulas_Generation\Aula_05\Lista02 - Matrizes\bin\Debug\net7.0\Lista02 - Matrizes.runtimeconfig.json
+C:\Users\user\Desktop\Aulas_Generation\Aula_05\Lista02 - Matrizes\bin\Debug\net7.0\Lista02 - Matrizes.dll
+C:\Users\user\Desktop\Aulas_Generation\Aula_05\Lista02 - Matrizes\bin\Debug\net7.0\Lista02 - Matrizes.pdb
+C:\Users\user\Desktop\Aulas_Generation\Aula_05\Lista02 - Matrizes\obj\Debug\net7.0\Lista02 - Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Aulas_Generation\Aula_05\Lista02 - Matrizes\obj\Debug\net7.0\Lista02 - Matrizes.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Aulas_Generation\Aula_05\Lista02 - Matrizes\obj\Debug\net7.0\Lista02 - Matrizes.AssemblyInfo.cs
+C:\Users\user\Desktop\Aulas_Generation\Aula_05\Lista02 - Matrizes\obj\Debug\net7.0\Lista02 - Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Aulas_Generation\Aula_05\Lista02 - Matrizes\obj\Debug\net7.0\Lista02 - Matrizes.dll
+C:\Users\user\Desktop\Aulas_Generation\Aula_05\Lista02 - Matrizes\obj\Debug\net7.0\refint\Lista02 - Matrizes.dll
+C:\Users\user\Desktop\Aulas_Generation\Aula_05\Lista02 - Matrizes\obj\Debug\net7.0\Lista02 - Matrizes.pdb
+C:\Users\user\Desktop\Aulas_Generation\Aula_05\Lista02 - Matrizes\obj\Debug\net7.0\Lista02 - Matrizes.genruntimeconfig.cache
+C:\Users\user\Desktop\Aulas_Generation\Aula_05\Lista02 - Matrizes\obj\Debug\net7.0\ref\Lista02 - Matrizes.dll

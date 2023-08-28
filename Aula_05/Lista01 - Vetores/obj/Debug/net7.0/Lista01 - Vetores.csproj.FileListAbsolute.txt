@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Aulas_Generation\Aula_05\Lista01 - Vetores\obj\Debug\net7.0\Lista01 - Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Aulas_Generation\Aula_05\Lista01 - Vetores\obj\Debug\net7.0\Lista01 - Vetores.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Aulas_Generation\Aula_05\Lista01 - Vetores\obj\Debug\net7.0\Lista01 - Vetores.AssemblyInfo.cs
+C:\Users\user\Desktop\Aulas_Generation\Aula_05\Lista01 - Vetores\obj\Debug\net7.0\Lista01 - Vetores.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Aulas_Generation\Aula_05\Lista01 - Vetores\bin\Debug\net7.0\Lista01 - Vetores.exe
+C:\Users\user\Desktop\Aulas_Generation\Aula_05\Lista01 - Vetores\bin\Debug\net7.0\Lista01 - Vetores.deps.json
+C:\Users\user\Desktop\Aulas_Generation\Aula_05\Lista01 - Vetores\bin\Debug\net7.0\Lista01 - Vetores.runtimeconfig.json
+C:\Users\user\Desktop\Aulas_Generation\Aula_05\Lista01 - Vetores\bin\Debug\net7.0\Lista01 - Vetores.dll
+C:\Users\user\Desktop\Aulas_Generation\Aula_05\Lista01 - Vetores\bin\Debug\net7.0\Lista01 - Vetores.pdb
+C:\Users\user\Desktop\Aulas_Generation\Aula_05\Lista01 - Vetores\obj\Debug\net7.0\Lista01 - Vetores.dll
+C:\Users\user\Desktop\Aulas_Generation\Aula_05\Lista01 - Vetores\obj\Debug\net7.0\refint\Lista01 - Vetores.dll
+C:\Users\user\Desktop\Aulas_Generation\Aula_05\Lista01 - Vetores\obj\Debug\net7.0\Lista01 - Vetores.pdb
+C:\Users\user\Desktop\Aulas_Generation\Aula_05\Lista01 - Vetores\obj\Debug\net7.0\Lista01 - Vetores.genruntimeconfig.cache
+C:\Users\user\Desktop\Aulas_Generation\Aula_05\Lista01 - Vetores\obj\Debug\net7.0\ref\Lista01 - Vetores.dll
