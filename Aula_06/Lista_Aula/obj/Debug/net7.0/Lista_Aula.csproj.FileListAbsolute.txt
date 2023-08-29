@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Aulas_Generation\Aula_06\Lista_Aula\bin\Debug\net7.0\Lista_Aula.exe
+C:\Users\user\Desktop\Aulas_Generation\Aula_06\Lista_Aula\bin\Debug\net7.0\Lista_Aula.deps.json
+C:\Users\user\Desktop\Aulas_Generation\Aula_06\Lista_Aula\bin\Debug\net7.0\Lista_Aula.runtimeconfig.json
+C:\Users\user\Desktop\Aulas_Generation\Aula_06\Lista_Aula\bin\Debug\net7.0\Lista_Aula.dll
+C:\Users\user\Desktop\Aulas_Generation\Aula_06\Lista_Aula\bin\Debug\net7.0\Lista_Aula.pdb
+C:\Users\user\Desktop\Aulas_Generation\Aula_06\Lista_Aula\obj\Debug\net7.0\Lista_Aula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Aulas_Generation\Aula_06\Lista_Aula\obj\Debug\net7.0\Lista_Aula.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Aulas_Generation\Aula_06\Lista_Aula\obj\Debug\net7.0\Lista_Aula.AssemblyInfo.cs
+C:\Users\user\Desktop\Aulas_Generation\Aula_06\Lista_Aula\obj\Debug\net7.0\Lista_Aula.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Aulas_Generation\Aula_06\Lista_Aula\obj\Debug\net7.0\Lista_Aula.dll
+C:\Users\user\Desktop\Aulas_Generation\Aula_06\Lista_Aula\obj\Debug\net7.0\refint\Lista_Aula.dll
+C:\Users\user\Desktop\Aulas_Generation\Aula_06\Lista_Aula\obj\Debug\net7.0\Lista_Aula.pdb
+C:\Users\user\Desktop\Aulas_Generation\Aula_06\Lista_Aula\obj\Debug\net7.0\Lista_Aula.genruntimeconfig.cache
+C:\Users\user\Desktop\Aulas_Generation\Aula_06\Lista_Aula\obj\Debug\net7.0\ref\Lista_Aula.dll

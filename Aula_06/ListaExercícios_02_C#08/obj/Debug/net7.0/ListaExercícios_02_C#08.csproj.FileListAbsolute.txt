@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Aulas_Generation\Aula_06\ListaExercícios_02_C#08\bin\Debug\net7.0\ListaExercícios_02_C#08.exe
+C:\Users\user\Desktop\Aulas_Generation\Aula_06\ListaExercícios_02_C#08\bin\Debug\net7.0\ListaExercícios_02_C#08.deps.json
+C:\Users\user\Desktop\Aulas_Generation\Aula_06\ListaExercícios_02_C#08\bin\Debug\net7.0\ListaExercícios_02_C#08.runtimeconfig.json
+C:\Users\user\Desktop\Aulas_Generation\Aula_06\ListaExercícios_02_C#08\bin\Debug\net7.0\ListaExercícios_02_C#08.dll
+C:\Users\user\Desktop\Aulas_Generation\Aula_06\ListaExercícios_02_C#08\bin\Debug\net7.0\ListaExercícios_02_C#08.pdb
+C:\Users\user\Desktop\Aulas_Generation\Aula_06\ListaExercícios_02_C#08\obj\Debug\net7.0\ListaExercícios_02_C#08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Aulas_Generation\Aula_06\ListaExercícios_02_C#08\obj\Debug\net7.0\ListaExercícios_02_C#08.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Aulas_Generation\Aula_06\ListaExercícios_02_C#08\obj\Debug\net7.0\ListaExercícios_02_C#08.AssemblyInfo.cs
+C:\Users\user\Desktop\Aulas_Generation\Aula_06\ListaExercícios_02_C#08\obj\Debug\net7.0\ListaExercícios_02_C#08.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Aulas_Generation\Aula_06\ListaExercícios_02_C#08\obj\Debug\net7.0\ListaExercícios_02_C#08.dll
+C:\Users\user\Desktop\Aulas_Generation\Aula_06\ListaExercícios_02_C#08\obj\Debug\net7.0\refint\ListaExercícios_02_C#08.dll
+C:\Users\user\Desktop\Aulas_Generation\Aula_06\ListaExercícios_02_C#08\obj\Debug\net7.0\ListaExercícios_02_C#08.pdb
+C:\Users\user\Desktop\Aulas_Generation\Aula_06\ListaExercícios_02_C#08\obj\Debug\net7.0\ListaExercícios_02_C#08.genruntimeconfig.cache
+C:\Users\user\Desktop\Aulas_Generation\Aula_06\ListaExercícios_02_C#08\obj\Debug\net7.0\ref\ListaExercícios_02_C#08.dll
