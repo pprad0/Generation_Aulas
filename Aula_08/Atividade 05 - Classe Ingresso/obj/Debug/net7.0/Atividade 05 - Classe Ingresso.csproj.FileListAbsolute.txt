@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Aulas_Generation\Aula_08\Atividade 05 - Classe Ingresso\bin\Debug\net7.0\Atividade 05 - Classe Ingresso.exe
+C:\Users\user\Desktop\Aulas_Generation\Aula_08\Atividade 05 - Classe Ingresso\bin\Debug\net7.0\Atividade 05 - Classe Ingresso.deps.json
+C:\Users\user\Desktop\Aulas_Generation\Aula_08\Atividade 05 - Classe Ingresso\bin\Debug\net7.0\Atividade 05 - Classe Ingresso.runtimeconfig.json
+C:\Users\user\Desktop\Aulas_Generation\Aula_08\Atividade 05 - Classe Ingresso\bin\Debug\net7.0\Atividade 05 - Classe Ingresso.dll
+C:\Users\user\Desktop\Aulas_Generation\Aula_08\Atividade 05 - Classe Ingresso\bin\Debug\net7.0\Atividade 05 - Classe Ingresso.pdb
+C:\Users\user\Desktop\Aulas_Generation\Aula_08\Atividade 05 - Classe Ingresso\obj\Debug\net7.0\Atividade 05 - Classe Ingresso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Aulas_Generation\Aula_08\Atividade 05 - Classe Ingresso\obj\Debug\net7.0\Atividade 05 - Classe Ingresso.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Aulas_Generation\Aula_08\Atividade 05 - Classe Ingresso\obj\Debug\net7.0\Atividade 05 - Classe Ingresso.AssemblyInfo.cs
+C:\Users\user\Desktop\Aulas_Generation\Aula_08\Atividade 05 - Classe Ingresso\obj\Debug\net7.0\Atividade 05 - Classe Ingresso.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Aulas_Generation\Aula_08\Atividade 05 - Classe Ingresso\obj\Debug\net7.0\Atividade 05 - Classe Ingresso.dll
+C:\Users\user\Desktop\Aulas_Generation\Aula_08\Atividade 05 - Classe Ingresso\obj\Debug\net7.0\refint\Atividade 05 - Classe Ingresso.dll
+C:\Users\user\Desktop\Aulas_Generation\Aula_08\Atividade 05 - Classe Ingresso\obj\Debug\net7.0\Atividade 05 - Classe Ingresso.pdb
+C:\Users\user\Desktop\Aulas_Generation\Aula_08\Atividade 05 - Classe Ingresso\obj\Debug\net7.0\Atividade 05 - Classe Ingresso.genruntimeconfig.cache
+C:\Users\user\Desktop\Aulas_Generation\Aula_08\Atividade 05 - Classe Ingresso\obj\Debug\net7.0\ref\Atividade 05 - Classe Ingresso.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Atividade 05 - Classe Ingresso/1.0.0": {
+        "runtime": {
+          "Atividade 05 - Classe Ingresso.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atividade 05 - Classe Ingresso/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

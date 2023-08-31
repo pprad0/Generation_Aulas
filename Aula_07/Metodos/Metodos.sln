@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metodos", "Metodos.csproj", "{D04C6834-98FD-4F3D-AC30-B2555305EF32}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pilha", "..\..\Aula_06\Pilha\Pilha.csproj", "{1FD6A06B-CA66-4957-BCCD-F5D745CC7AEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D04C6834-98FD-4F3D-AC30-B2555305EF32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D04C6834-98FD-4F3D-AC30-B2555305EF32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D04C6834-98FD-4F3D-AC30-B2555305EF32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D04C6834-98FD-4F3D-AC30-B2555305EF32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FD6A06B-CA66-4957-BCCD-F5D745CC7AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FD6A06B-CA66-4957-BCCD-F5D745CC7AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FD6A06B-CA66-4957-BCCD-F5D745CC7AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FD6A06B-CA66-4957-BCCD-F5D745CC7AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E430DFD-7C1E-4418-B793-3DC9B49D7D66}
+	EndGlobalSection
+EndGlobal
