@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Aulas_Generation\Aula_08\Atividade 03 - Classe Produto\bin\Debug\net7.0\Atividade 03 - Classe Produto.exe
+C:\Users\user\Desktop\Aulas_Generation\Aula_08\Atividade 03 - Classe Produto\bin\Debug\net7.0\Atividade 03 - Classe Produto.deps.json
+C:\Users\user\Desktop\Aulas_Generation\Aula_08\Atividade 03 - Classe Produto\bin\Debug\net7.0\Atividade 03 - Classe Produto.runtimeconfig.json
+C:\Users\user\Desktop\Aulas_Generation\Aula_08\Atividade 03 - Classe Produto\bin\Debug\net7.0\Atividade 03 - Classe Produto.dll
+C:\Users\user\Desktop\Aulas_Generation\Aula_08\Atividade 03 - Classe Produto\bin\Debug\net7.0\Atividade 03 - Classe Produto.pdb
+C:\Users\user\Desktop\Aulas_Generation\Aula_08\Atividade 03 - Classe Produto\obj\Debug\net7.0\Atividade 03 - Classe Produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Aulas_Generation\Aula_08\Atividade 03 - Classe Produto\obj\Debug\net7.0\Atividade 03 - Classe Produto.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Aulas_Generation\Aula_08\Atividade 03 - Classe Produto\obj\Debug\net7.0\Atividade 03 - Classe Produto.AssemblyInfo.cs
+C:\Users\user\Desktop\Aulas_Generation\Aula_08\Atividade 03 - Classe Produto\obj\Debug\net7.0\Atividade 03 - Classe Produto.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Aulas_Generation\Aula_08\Atividade 03 - Classe Produto\obj\Debug\net7.0\Atividade 03 - Classe Produto.dll
+C:\Users\user\Desktop\Aulas_Generation\Aula_08\Atividade 03 - Classe Produto\obj\Debug\net7.0\refint\Atividade 03 - Classe Produto.dll
+C:\Users\user\Desktop\Aulas_Generation\Aula_08\Atividade 03 - Classe Produto\obj\Debug\net7.0\Atividade 03 - Classe Produto.pdb
+C:\Users\user\Desktop\Aulas_Generation\Aula_08\Atividade 03 - Classe Produto\obj\Debug\net7.0\Atividade 03 - Classe Produto.genruntimeconfig.cache
+C:\Users\user\Desktop\Aulas_Generation\Aula_08\Atividade 03 - Classe Produto\obj\Debug\net7.0\ref\Atividade 03 - Classe Produto.dll
