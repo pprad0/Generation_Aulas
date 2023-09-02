@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Aulas_Generation\Aula_09\Atividade 03 - Produto com heranca\obj\Debug\net7.0\Atividade 03 - Produto com heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Aulas_Generation\Aula_09\Atividade 03 - Produto com heranca\obj\Debug\net7.0\Atividade 03 - Produto com heranca.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Aulas_Generation\Aula_09\Atividade 03 - Produto com heranca\obj\Debug\net7.0\Atividade 03 - Produto com heranca.AssemblyInfo.cs
+C:\Users\user\Desktop\Aulas_Generation\Aula_09\Atividade 03 - Produto com heranca\obj\Debug\net7.0\Atividade 03 - Produto com heranca.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Aulas_Generation\Aula_09\Atividade 03 - Produto com heranca\bin\Debug\net7.0\Atividade 03 - Produto com heranca.exe
+C:\Users\user\Desktop\Aulas_Generation\Aula_09\Atividade 03 - Produto com heranca\bin\Debug\net7.0\Atividade 03 - Produto com heranca.deps.json
+C:\Users\user\Desktop\Aulas_Generation\Aula_09\Atividade 03 - Produto com heranca\bin\Debug\net7.0\Atividade 03 - Produto com heranca.runtimeconfig.json
+C:\Users\user\Desktop\Aulas_Generation\Aula_09\Atividade 03 - Produto com heranca\bin\Debug\net7.0\Atividade 03 - Produto com heranca.dll
+C:\Users\user\Desktop\Aulas_Generation\Aula_09\Atividade 03 - Produto com heranca\bin\Debug\net7.0\Atividade 03 - Produto com heranca.pdb
+C:\Users\user\Desktop\Aulas_Generation\Aula_09\Atividade 03 - Produto com heranca\obj\Debug\net7.0\Atividade 03 - Produto com heranca.dll
+C:\Users\user\Desktop\Aulas_Generation\Aula_09\Atividade 03 - Produto com heranca\obj\Debug\net7.0\refint\Atividade 03 - Produto com heranca.dll
+C:\Users\user\Desktop\Aulas_Generation\Aula_09\Atividade 03 - Produto com heranca\obj\Debug\net7.0\Atividade 03 - Produto com heranca.pdb
+C:\Users\user\Desktop\Aulas_Generation\Aula_09\Atividade 03 - Produto com heranca\obj\Debug\net7.0\Atividade 03 - Produto com heranca.genruntimeconfig.cache
+C:\Users\user\Desktop\Aulas_Generation\Aula_09\Atividade 03 - Produto com heranca\obj\Debug\net7.0\ref\Atividade 03 - Produto com heranca.dll
