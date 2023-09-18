@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Aulas_Generation\Aula_11\Lambda\bin\Debug\net7.0\Lambda.exe
+C:\Users\user\Desktop\Aulas_Generation\Aula_11\Lambda\bin\Debug\net7.0\Lambda.deps.json
+C:\Users\user\Desktop\Aulas_Generation\Aula_11\Lambda\bin\Debug\net7.0\Lambda.runtimeconfig.json
+C:\Users\user\Desktop\Aulas_Generation\Aula_11\Lambda\bin\Debug\net7.0\Lambda.dll
+C:\Users\user\Desktop\Aulas_Generation\Aula_11\Lambda\bin\Debug\net7.0\Lambda.pdb
+C:\Users\user\Desktop\Aulas_Generation\Aula_11\Lambda\obj\Debug\net7.0\Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Aulas_Generation\Aula_11\Lambda\obj\Debug\net7.0\Lambda.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Aulas_Generation\Aula_11\Lambda\obj\Debug\net7.0\Lambda.AssemblyInfo.cs
+C:\Users\user\Desktop\Aulas_Generation\Aula_11\Lambda\obj\Debug\net7.0\Lambda.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Aulas_Generation\Aula_11\Lambda\obj\Debug\net7.0\Lambda.dll
+C:\Users\user\Desktop\Aulas_Generation\Aula_11\Lambda\obj\Debug\net7.0\refint\Lambda.dll
+C:\Users\user\Desktop\Aulas_Generation\Aula_11\Lambda\obj\Debug\net7.0\Lambda.pdb
+C:\Users\user\Desktop\Aulas_Generation\Aula_11\Lambda\obj\Debug\net7.0\Lambda.genruntimeconfig.cache
+C:\Users\user\Desktop\Aulas_Generation\Aula_11\Lambda\obj\Debug\net7.0\ref\Lambda.dll

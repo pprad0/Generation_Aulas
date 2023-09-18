@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Aulas_Generation\Aula_11\LinQ\bin\Debug\net7.0\LinQ.exe
+C:\Users\user\Desktop\Aulas_Generation\Aula_11\LinQ\bin\Debug\net7.0\LinQ.deps.json
+C:\Users\user\Desktop\Aulas_Generation\Aula_11\LinQ\bin\Debug\net7.0\LinQ.runtimeconfig.json
+C:\Users\user\Desktop\Aulas_Generation\Aula_11\LinQ\bin\Debug\net7.0\LinQ.dll
+C:\Users\user\Desktop\Aulas_Generation\Aula_11\LinQ\bin\Debug\net7.0\LinQ.pdb
+C:\Users\user\Desktop\Aulas_Generation\Aula_11\LinQ\obj\Debug\net7.0\LinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Aulas_Generation\Aula_11\LinQ\obj\Debug\net7.0\LinQ.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Aulas_Generation\Aula_11\LinQ\obj\Debug\net7.0\LinQ.AssemblyInfo.cs
+C:\Users\user\Desktop\Aulas_Generation\Aula_11\LinQ\obj\Debug\net7.0\LinQ.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Aulas_Generation\Aula_11\LinQ\obj\Debug\net7.0\LinQ.dll
+C:\Users\user\Desktop\Aulas_Generation\Aula_11\LinQ\obj\Debug\net7.0\refint\LinQ.dll
+C:\Users\user\Desktop\Aulas_Generation\Aula_11\LinQ\obj\Debug\net7.0\LinQ.pdb
+C:\Users\user\Desktop\Aulas_Generation\Aula_11\LinQ\obj\Debug\net7.0\LinQ.genruntimeconfig.cache
+C:\Users\user\Desktop\Aulas_Generation\Aula_11\LinQ\obj\Debug\net7.0\ref\LinQ.dll
